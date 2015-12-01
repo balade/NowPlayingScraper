@@ -1,0 +1,12 @@
+{
+  "name"         : "YTCurrentScraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape for current playing video",
+  "main"         : "app.js",
+  "author"       : "baladeAdvent",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}

@@ -1,0 +1,1 @@
+//https://developers.google.com/youtube/v3/code_samples/javascript#authorizing_requests
